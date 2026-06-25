@@ -73,6 +73,12 @@
 
 記録に残ったもの、成功したもの、生き残ったものだけを見て閉鎖集団を理解する危険を整理する。古人類、貴族、企業のすべてに関係する。
 
+### 9. 数理化メモ
+
+`09_mathematical_formulation.md`
+
+閉鎖性、組織内婚、認知多様性、外部知識再生産率、悪習感染率、修正率、内部適応度、外部適応度、組織死亡ハザードを変数として置き、使える範囲で最小関係式を仮置きする。
+
 ## 当面やらないこと
 
 現段階では、以下は扱わない。
@@ -99,6 +105,7 @@ notes/03_translation_to_organizations.md
 notes/06_aristocratic_inbreeding.md
 notes/07_epidemiology_and_fragility.md
 notes/08_survivorship_and_record_bias.md
+notes/09_mathematical_formulation.md
 ```
 
-その後、既存理論との差分、反証条件、数理化の形式を整理する。
+その後、既存理論との差分、反証条件、実証可能性を整理する。
